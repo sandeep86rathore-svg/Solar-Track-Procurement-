@@ -1,0 +1,8 @@
+{
+  "name": "SolarTrack Pro",
+  "description": "Enterprise-grade Procurement Tracker Web App for Solar EPC Projects tracking RFQs, POs, vendors, and material delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
